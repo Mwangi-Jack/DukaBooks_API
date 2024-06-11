@@ -27,12 +27,56 @@
     },
     {
       "FName": "David",
-      "Sname": "Njuguna",
+      "SName": "Njuguna",
       "email": "david@gmail.com",
       "phone": "254768109835",
       "password": "@davi",
       "Cpassword": "@davi",
       "id": "0f2abce1-374b-46e4-938d-0b76d8fd6f64"
+    },
+    {
+      "FName": null,
+      "SName": null,
+      "email": "jamesSmith@gmail.com",
+      "phone": "254797945342",
+      "password": "12345",
+      "Cpassword": "12345",
+      "Fname": "James",
+      "Sname": "Smith",
+      "id": "4e539266-48aa-43f0-83a5-c9313eb1ffa5"
+    },
+    {
+      "FName": null,
+      "SName": null,
+      "email": "knls@info.com",
+      "phone": "254797955094",
+      "password": "12345",
+      "Cpassword": "12345",
+      "Fname": "Kenya",
+      "Sname": "Library",
+      "id": "f803aae0-9bad-499b-9aa8-c495f7e6cf6f"
+    },
+    {
+      "FName": null,
+      "SName": null,
+      "email": "kenya@info.com",
+      "phone": "254711111111",
+      "password": "12345",
+      "Cpassword": "12345",
+      "Fname": "KENYA",
+      "Sname": "NATIONAL",
+      "id": "d206ff9d-6de2-405f-a6a0-8c3ac4e115dd"
+    },
+    {
+      "FName": null,
+      "SName": null,
+      "email": "ke@info.com",
+      "phone": "254711111111",
+      "password": "12345",
+      "Cpassword": "12345",
+      "Fname": "KE",
+      "Sname": "National",
+      "id": "7c72bab1-0387-47ed-8d35-ca83382ee5c0"
     }
   ],
   "invoices": [
