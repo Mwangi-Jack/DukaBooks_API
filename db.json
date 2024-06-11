@@ -5,17 +5,20 @@
       "FName": "James",
       "SName": "Njoroge",
       "email": "jamesnjoroge123@gmail.com",
-      "phone": "+254709055637"
+      "phone": "+254709055637",
+      "password": "12345"
     },
     {
       "id": 3,
       "FName": "Alice",
       "SName": "Wahome",
-      "email": "alicewahome97@gmail.com"
+      "email": "alicewahome97@gmail.com",
+      "phone": "+254723451121",
+      "password": "12345"
     },
     {
-      "Fname": "jackson",
-      "Sname": "muturi",
+      "FName": "jackson",
+      "SName": "muturi",
       "email": "jacksonmuturi2000@gmail.com",
       "phone": "254797955092",
       "password": "@Jack2000",
@@ -23,7 +26,7 @@
       "id": "250d2a52-5997-4db7-9609-04529bdcbc42"
     },
     {
-      "Fname": "David",
+      "FName": "David",
       "Sname": "Njuguna",
       "email": "david@gmail.com",
       "phone": "254768109835",
